@@ -122,10 +122,10 @@ Ao receber cada voto, todos os clientes conectados recebem SCOREBOARD_UPDATE aut
 └── LICENSE
 ```
 
-## Melhorias Futuras
+## Autores
 
-- autenticação de administrador para CLOSE_VOTE;
-- persistência de resultados em banco de dados;
-- histórico de sessões de votação;
-- suporte a TLS para criptografia de transporte;
-- suíte de testes automatizados (integração/concorrência).
+- Beatriz Mergulhao dos Anjos
+- Breno Augusto Ferreira da Silva Arruda
+- Giovanna Clócate Cavalcante de Almeida
+- Luiza Trigueiro do Rego Barros 
+- Sergio Luis de Lira
